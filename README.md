@@ -1,8 +1,6 @@
 # GuessTheNumber
 
-PROJETO 01 - ADIVINHE O NÚMERO
-
-Começamos com um simples programa em que o computador irá gerar um número aleatório e o usuário irá tentar adivinhar que número é esse.
+Este é um simples programa em que o computador irá gerar um número aleatório e o usuário irá tentar adivinhar que número é esse.
 
 Neste projeto usei a IDE PyCharm, e escolhi uma numeração entre 1 e 10 - não por ser mais fácil para programar - e sim para ser mais rápido para adivinhar, já que um numero entre 1 e 1000 funcionaria da mesma maneira, e para isso basta mudar o valor da função GUESS ao chamá-la.
 
