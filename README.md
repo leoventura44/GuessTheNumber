@@ -12,5 +12,3 @@ Para este Projeto chamado GuessTheNumber, o processo foi bem simples:
 - Criei uma variável chamada random_number e pelo módulo RANDOM puxei a função random.randint() e coloquei os argumentos entre 1 e X (A função desta é simplesmente gerar um numero INT aleatório);
 -Coloquei o valor de GUESS = 0 para que o número 0 não seja gerado aleatoriamente, afinal queremos um número somente entra 1 e 10
 -Enfim, apliquei um While Loop com Input para que o usuário insira um numero e computador diga se ele acertou o numero corretamente. Caso o valor dado pelo usuário seja MENOR, o computador irá avisar que o número é menor, e caso seja MAIOR, a mesma coisa. Quando o usuário acertar o numero será dado uma mensagem de Parabéns e o loop irá parar.
-
-FIM
